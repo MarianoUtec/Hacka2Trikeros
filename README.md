@@ -5,9 +5,9 @@
 ## Integrantes
 
 <!-- Completa con los nombres y códigos del equipo -->
-- Integrante A — código
-- Integrante B — código
-- Integrante C — código
+- Mariano Arce — código
+- Sebastian C — código
+- Fabricio Cruz — código
 
 ## Deploy
 
